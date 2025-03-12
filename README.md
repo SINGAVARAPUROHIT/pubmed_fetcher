@@ -14,20 +14,14 @@ XML Parsing (for metadata extraction)
 Transformers (Hugging Face) (for LLM-based text processing)
 Tkinter (for GUI-based file saving)
 📥 Installation Guide
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/pubmed-extractor-llm.git
-cd pubmed-extractor-llm
-2️⃣ Install Dependencies
+Install Dependencies
 Make sure you have Python installed (≥3.8). Then, install the required dependencies:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3️⃣ Run the Script
+ Run the Script
 Execute the script to start fetching PubMed papers and saving results:
 
 bash
