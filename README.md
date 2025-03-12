@@ -45,13 +45,4 @@ python main.py
 🛠️ Configuration
 If needed, you can modify the default number of results fetched by changing this line in main.py:
 
-python 
-Copy
-Edit
-num_papers = int(input("Enter number of papers to fetch: ") or 5)
-📜 Example Output (CSV File)
-PubMed ID	Title	Publication Date	Corresponding Author Email
-40066659	Sample Paper Title	2024-02-10	author@example.com
-📩 Contributing
-Feel free to contribute! Fork the repo, create a new branch, and submit a pull request.
 
