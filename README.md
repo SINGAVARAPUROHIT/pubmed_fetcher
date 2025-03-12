@@ -51,7 +51,7 @@ python main.py
 🛠️ Configuration
 If needed, you can modify the default number of results fetched by changing this line in main.py:
 
-python
+python 
 Copy
 Edit
 num_papers = int(input("Enter number of papers to fetch: ") or 5)
